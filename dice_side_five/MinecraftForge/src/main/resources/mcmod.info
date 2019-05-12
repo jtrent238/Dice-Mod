@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dice_side_five",
+  "name": " + ask_modName + ",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jtrent238"],dicemaker
+  "credits": "Mod made by jtrent238 Mod Maker",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
